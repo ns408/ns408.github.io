@@ -1,8 +1,8 @@
 theme: minima
 title: ns408.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Profile page to display my
-  skills.
+  Page to share
+  stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown

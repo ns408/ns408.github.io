@@ -1,4 +1,4 @@
-# ns408.github.io
+# site setup
 
 ## Initial setup
 
