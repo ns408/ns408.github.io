@@ -8,5 +8,4 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 show_downloads: false
 google_analytics: UA-115540513-1
-#email:
 github: [metadata]

@@ -2,14 +2,16 @@
 layout: default
 ---
 
+Page listing the projects, walkthroughs, experiments:
+
+## [](#links)Links
+
+- [Github]
+
+## [](#dojos)dojos
+
+- [dojos]
+
 [Github]: https://github.com/ns408
-
-## [](#tl-dr)TL;DR
-
-**[Github]**
-
-## [](#note)Note
-
-
-<br />
+[dojos]: https://github.com/ns408/dojos
 <br />
