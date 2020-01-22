@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am open to a challenging opportunity that fits the following criterion:
+I am open to a challenging opportunity that fits the following criteria:
 
 * Engineering leadership role
 
