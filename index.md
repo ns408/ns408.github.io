@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I build and develop system engineering teams.
+I build and develop systems engineering teams.
 
 We help delivery teams produce value faster and reliably.
 
